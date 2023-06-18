@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="app_name">CraftyCrew</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="save_button">Save</string>
+    <string name="pay_button">Pay</string>
+    <string name="event_title_txt">Event Title</string>
+    <string name="event_place_txt">Place</string>
+    <string name="date_txt">Date</string>
+    <string name="time_txt">Time</string>
+    <string name="add_new_event">Add New Event</string>
+    <string name="wallet">Wallet</string>
+    <string name="event">Event</string>
+    <string name="add_instructor">Add Instructor</string>
+    <string name="add_event_btn">Add Event</string>
+
+    <string name="Delete_btn_txt">Delete</string>
+    <string name="Update_btn_txt">Update</string>
+    <string name="Log_Out_btn_txt">Log Out</string>
+    <string name="Create_Account_btn_txt">Create Account</string>
+    <string name="Item_Title_btn_txt">Item Title</string>
+    <string name="Name_btn_txt">Name</string>
+    <string name="Email_btn_txt">Email</string>
+    <string name="Phone_btn_txt">Phone</string>
+    <string name="Price_btn_txt">Price</string>
+    <string name="Size_btn_txt">Size</string>
+    <string name="Category_btn_txt">Category</string>
+    <string name="Description_btn_txt">Description</string>
+    <string name="Sell_item_btn_txt">Sell Item</string>
+    <string name="Forget_Password_btn_txt">Forget Password ?</string>
+    <string name="Go_Profile_btn_txt">Go Profile</string>
+    <string name="I_havent_Account_btn_txt">I haven\'t Account ?</string>
+    <string name="Go_Item_btn_txt">Go Item</string>
+    <string name="Save_Change_btn_txt">Save Change</string>
+    <string name="Create_Account_txt">Create Seller Account</string>
+    <string name="Sell_Item_txt">Sell Item</string>
+    <string name="Seller_Login_txt">Seller Login</string>
+    <string name="Update_Item_txt">Update Item</string>
+
+    <string name="login_btn_txt">Login</string>
+    <string name="save_btn_txt">Save</string>
+    <string name="submit_btn_txt">Submit</string>
+    <string name="back_btn_txt">Back</string>
+    <string name="add_btn_txt">Add to cart</string>
+    <string name="address_btn_txt">Add to cart</string>
+
+
+    <string name="instructor_name_txt">Name of Instructor</string>
+    <string name="instructor_email_txt">E-mail</string>
+    <string name="instructor_user_name_txt">User Name</string>
+    <string name="instructor_password_txt">Password</string>
+    <string name="add_instructor_btn_txt">ADD INSTRUCTOR</string>
+    <string name="pay_instructor_txt">Pay for Instructor</string>
+    <string name="instructor_txt">Instructors</string>
+    <string name="dashboard_txt">DashBoard</string>
+    <string name="add_new_instructor_txt">Add New Instructor</string>
+    <string name="pay_instructor_btn_txt">Pay for Instructor</string>
+    <string name="delete_update_instructor_txt">Delete / Update Instructor</string>
+    <string name="instructor_login_txt">Instructor Login</string>
+
+</resources>

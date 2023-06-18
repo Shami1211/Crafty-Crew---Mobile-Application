@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Market"
+        android:tooltipText="Market"
+        android:id="@+id/market"
+        android:icon="@drawable/ic_baseline_home"/>
+    <item android:title="Cart"
+        android:icon="@drawable/ic_baseline_cart"
+        android:id="@+id/cart"/>
+    <item android:title="Account"
+        android:icon="@drawable/ic_baseline_account"
+        android:id="@+id/account"/>
+</menu>

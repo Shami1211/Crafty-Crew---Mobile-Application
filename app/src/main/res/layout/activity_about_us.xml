@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUs">
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/aboutus" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView17">
+
+        <TextView
+            android:id="@+id/textView42"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:padding="20dp"
+            android:textSize="17dp"
+            android:textAlignment="center"
+            android:text="Crafty Crew is a mobile application dedicated to showcasing and selling unique and handmade craft items to buyers worldwide.Our platform is designed to provide a seamless and enjoyable shopping experience for customers looking to purchase one-of-a-kind pieces created by skilled artisans.Crafty Crew offers a diverse range of crafts, including handmade jewelry, pottery, paintings, textiles, and much more.Our mission is to promote the work of talented craftsmen and women and connect them with a global audience of buyers who appreciate the beauty and craftsmanship of handmade items.Our app features an easy-to-use interface that allows customers to browse through a wide range of crafts, read about the artists behind them, and make secure purchases with just a few taps.With Crafty Crew, you can be assured that you are buying unique and authentic items that are made with passion and care.We strive to foster a community of craft enthusiasts and provide a platform that supports and empowers talented artists.Join us on our mission to celebrate creativity and craftsmanship by downloading the CraftyCrew app today."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
